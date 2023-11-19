@@ -2,6 +2,13 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+header{
+    background-color: orangered;
+}
+
+nav {
+    background-color: rgb(12, 12, 12);
+}
 .title {
     font-weight: bold;
     background-color: rgb(235, 152, 0);
