@@ -9,7 +9,7 @@
     height: 95px;
 }
 
-header {
+header,.title{
     background-color: rgb(122, 11, 11);
 }
 
@@ -26,9 +26,7 @@ header {
 }
 .title {
     font-weight: bold;
-    background-color: rgb(235, 152, 0);
-    color:white;
-    
+    color:rgb(255, 31, 31);
 }
 
 .page-title{
