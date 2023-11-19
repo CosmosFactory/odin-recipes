@@ -12,6 +12,18 @@
 header {
     background-color: rgb(122, 11, 11);
 }
+
+.nav-links{
+    text-align:right;
+
+
+    
+}
+.nav-button{
+    background-color: orange;
+    color:white;
+    font-weight: bold;
+}
 .title {
     font-weight: bold;
     background-color: rgb(235, 152, 0);
