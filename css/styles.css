@@ -6,6 +6,11 @@ header{
     background-color: orangered;
 }
 
+#logo{
+    width:100px;
+    height: auto;
+}
+
 nav {
     background-color: rgb(12, 12, 12);
 }
